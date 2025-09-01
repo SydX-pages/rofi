@@ -43,8 +43,8 @@ window {
     cursor:                      "default";
     //background-color:            #22272C;
     //background-color:            #324e8b;
-    //background-color:            rgba(50,78,139, 0.6);
-    background-image: linear-gradient(to bottom,  #6a3fa0,#2f4fa0);
+    background-color:            rgba(50,78,139, 0.8);
+    //background-image: linear-gradient(to bottom,  #6a3fa0,#2f4fa0);
 }
 
 /*****----- Main Box -----*****/
@@ -132,7 +132,7 @@ element normal.active {
 element selected.normal {
 //    background-image:            linear-gradient(to right, #4C4F52, #2E343B);
 //    text-color:                  #FF9030;
-    background-image: linear-gradient(to right, #3f51b5, #9c27b0);
+    background-image: linear-gradient(to right, #6e63d6,#8f95cf);
     text-color: #FFD54F;
 }
 element selected.active {
@@ -166,7 +166,7 @@ mode-switcher{
     //background-color:            #2E343B;
     //background-color:            #515f9e;
     background-color: transparent;
-    background-image: linear-gradient(to right, #283593, #8e24aa);
+    background-image: linear-gradient(to right, #324E8B30, #3323c490);
 }
 button {
     background-color:            inherit;
